@@ -63,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This work can be seen by the deployed link here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This work can be seen by the deployed link here: (https://phase-2-code-challenge-navy.vercel.app/)
 
 ### `npm run build` fails to minify
 
