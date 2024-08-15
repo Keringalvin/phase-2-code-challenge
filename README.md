@@ -64,6 +64,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This work can be seen by the deployed link here: (https://phase-2-code-challenge-navy.vercel.app/)
+### db.json deployment
+The db.json has been deployed with the link below: (https://bot-battlr-backened-5dmc.vercel.app/)
 
 ### `npm run build` fails to minify
 
