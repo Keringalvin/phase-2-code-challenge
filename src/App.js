@@ -15,7 +15,7 @@ function App() {
   const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
-    fetch('http://localhost:3000/transactions') // Update the URL to match your JSON server endpoint.
+    fetch('https://bank-flat-iron-api.vercel.app/transactions') // Update the URL to match your JSON server endpoint.
       .then((response) => response.json())
       .then((data) => {
         setTransactions(data);
